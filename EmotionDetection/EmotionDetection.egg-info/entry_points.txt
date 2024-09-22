@@ -1,0 +1,2 @@
+[console_scripts]
+emotion-detection = emotion_detection.emotion_detection:app.run
